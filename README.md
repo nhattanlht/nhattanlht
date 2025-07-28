@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/NO8xlHMXpJwAAAAC/thedangerbeard-dangerbeard.gif" width="300" alt="Animated Hello Tan GIF" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tan</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
