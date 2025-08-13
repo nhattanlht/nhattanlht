@@ -5,12 +5,6 @@
 <h1 align="center">Hi 👋, I'm Tan</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on [Student Management System](https://github.com/nhattanlht/Group23-Ex-Sat)
-
-- 👯 I’m looking to collaborate on [Learning Management System](https://github.com/nhattanlht/lms-nodejs)
-
-- 🤝 I’m looking for help with [Restaurant Management System](https://github.com/nhattanlht/restaurant-system)
-
 - 📫 How to reach me **nhattanlht@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
