@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tan</h1>
-<h3 align="center">A passionate fullstack developer from Viet Nam</h3>
+<h3 align="center">A passionate AI Engineer from Viet Nam</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
